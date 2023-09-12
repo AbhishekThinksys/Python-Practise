@@ -4,4 +4,7 @@ print("my name \"is\" abhishek")
 print("my name \'is\' abhishek")
 print("my name \nis abhishek")
 print("my name \tis abhishek")
-print("my name \bis abhishek")
+print("my name  \bis abhishek") 
+
+print("line a \\n line b")
+print ("line a \\b line b")
